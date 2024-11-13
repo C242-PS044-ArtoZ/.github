@@ -9,7 +9,7 @@ aims to address the gap by providing expense tracking, receipt scanning using OC
 
 ##  Team Members
 | Member ID | Full Name | University | Field | Status |
-| ------------ | ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
 | M267B4KY1254 | Elvan Nasrul | Muhammadiyah University of Sukabumi | Machine Learning | Active |
 | M267B4KX4022 | Salma Nurfauziah | Muhammadiyah University of Sukabumi | Machine Learning | Active |
 | M267B4KX1037 | Delinda Mega Putri | Muhammadiyah University of Sukabumi | Machine Learning | Active |
