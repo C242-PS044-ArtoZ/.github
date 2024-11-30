@@ -12,7 +12,7 @@ aims to address the gap by providing expense tracking, receipt scanning using OC
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | M267B4KY1254 | Elvan Nasrul | Muhammadiyah University of Sukabumi | Machine Learning | Active |
 | M267B4KX4022 | Salma Nurfauziah | Muhammadiyah University of Sukabumi | Machine Learning | Active |
-| M267B4KX1037 | Delinda Mega Putri | Muhammadiyah University of Sukabumi | Machine Learning | Active |
+| M267B4KX1037 | Delinda Mega Putri | Muhammadiyah University of Sukabumi | Machine Learning | Inactive |
 | C267B4KY3841 | Rifki Andriyana | Muhammadiyah University of Sukabumi | Cloud Computing | Active |
 | C267B4KY0984 | Dani Akhmad Maulana | Muhammadiyah University of Sukabumi | Cloud Computing | Active |
 | A267B4KY2848 | Muhammad Fauzul Hanif | Muhammadiyah University of Sukabumi | Mobile Developer | Active |
